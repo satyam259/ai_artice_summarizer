@@ -238,8 +238,6 @@ Open [https://ai-artice-summarizer.vercel.app/](https://ai-artice-summarizer.ver
 
 Assets used in the project are [here](https://drive.google.com/file/d/11DLzrWADT-GyhuHpWXobhUwqV8peC0ef/view)
 
-<br />
-
 ## <a name="Acknowledgment">🚀 Acknowledgements</a>
 
 This project was inspired by [Adrian Hajdin](https://github.com/adrianhajdin).
